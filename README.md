@@ -187,15 +187,16 @@ MATA KULIAH    : PEMOGRAMAN WEB 2
 
 ## Hasil Run
 
-![Screenshot (129)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/9667f024-f06c-44e2-8d4d-c8c896bc7b12)
+![Screenshot (144)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/c6a06140-ab16-4937-b20a-d35a6678cb29)
+
 
 ## Lab3 PHP DATABASE
 
 > `Buat Databse Latihan1`
-![Screenshot (121)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/ebe7345e-49b0-4182-a2e5-f9f69e129bc0)
+![Screenshot (121)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/6ab7ce73-5bf2-46fe-9b5a-8bfa6ccf5df6)
 
 > `Masukan Tabel`
-![Screenshot (122)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/2c165f0c-4484-43c9-a70b-b0f0fd1b174c)
+![Screenshot (122)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/2e8f2491-6fcc-41e7-a747-f2737e79649f)
 
 > `Koneksi`
 ```
@@ -215,7 +216,7 @@ die();
 
 ## Hasil Run
 
-![Screenshot (123)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/587bad37-5d95-4c1c-8b6f-b7dae47ce2a0)
+![Screenshot (123)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/3a33b35b-bf2d-434b-996f-4b6828256c29)
 
 > `Index`
 ```
@@ -276,8 +277,7 @@ $result = mysqli_query($conn, $sql);
 
 ## Hasil Run
 
-![Screenshot (124)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/31f779a7-1815-4234-8fe1-af7160b821d6)
-
+![Screenshot (124)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/25a72b4f-927f-4418-8a79-a72b7f23462c)
 
 > `Tambah`
 ```
@@ -364,8 +364,7 @@ data">
 ```
 ## Hasil Run
 
-![Screenshot (125)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/93ffd940-6c20-4a98-80eb-95cd8e225123)
-
+![Screenshot (125)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/4bdf7bb3-4ff5-46c2-8960-02df948826ac)
 
 > `Ubah`
 ```
@@ -473,7 +472,7 @@ data">
 
 ## Hasil Run 
 
-![Screenshot (126)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/5e1fffc5-a78e-41c8-b0fd-dc7d7e553338)
+![Screenshot (126)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/250fbfdc-796b-44f9-9186-b7178f57ad72)
 
 ## Lab4 PHP MODULAR
 
@@ -765,11 +764,8 @@ $b->tampilWarna();
 
 ## Hasil Run
 
-
-![Screenshot (127)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/3f7eeabc-dbc1-47b8-95df-2c8414071390)
-![Screenshot (128)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/87f01825-cad2-4f19-9208-569a1e541fb9)
-
-
+![Screenshot (127)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/7b196898-edbc-4f28-85d9-7a6676b2f268)
+![Screenshot (128)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/5f2e69a9-8404-481d-bb5f-252cb1700cd5)
 
   
 # Sekian, Terima kasih.
