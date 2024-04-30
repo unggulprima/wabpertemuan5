@@ -120,10 +120,9 @@ MATA KULIAH    : PEMOGRAMAN WEB 2
 ```
 ## Hasil Run 
 
-![Screenshot (126)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/321d2be9-f0a1-4358-aeb4-00dccc5518a6)
-![Screenshot (127)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/c4bd82df-a974-4f14-ba96-57263756a5a3)
-![Screenshot (128)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/fe160155-cba0-46af-a2fc-e69e2798b464)
-
+![Screenshot (141)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/430e524c-76e0-41ab-a1cc-a481cb38058c)
+![Screenshot (142)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/88da6900-f8c6-495d-a5bf-43a36e69b198)
+![Screenshot (143)](https://github.com/unggulprima/wabpertemuan5/assets/130428243/5af85310-8858-4a9a-ac7d-69de9deb462b)
 
 ## TUGAS FORM INPUT
 
